@@ -1,4 +1,4 @@
-# Pandas-and-NumPy
+# Pandas and NumPy
 
 This repository contains Jupyter Notebooks showcasing concepts and techniques using **Pandas** and **NumPy**. It is organized into separate folders for each library, with detailed examples and explanations.
 
