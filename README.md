@@ -7,7 +7,7 @@ This repository contains Jupyter Notebooks showcasing concepts and techniques us
 
 
 
-## **NumPy Concepts: **
+## NumPy Concepts:
 - **Arithmetic Functions**: Perform arithmetic operations on arrays.
 - **Indexing and Slicing**: Access specific elements, rows, columns, and slices.
 - **Iterating through Arrays**: Understand array iteration, views, and copies.
@@ -16,7 +16,7 @@ This repository contains Jupyter Notebooks showcasing concepts and techniques us
 - **Advanced Operations**: Sorting, searching, inserting, and deleting elements.
 
 
-## **Pandas Concepts: **
+## Pandas Concepts:
 - **Data Cleaning**: Handle missing data and clean datasets.
 - **Exploratory Data Analysis (EDA)**: Gain insights from data using statistical and visualization techniques.
 - **Data Filtering and Ordering**: Filter rows and sort data.
